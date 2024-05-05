@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage001",
+	"properties": {
+		"type": "AzureBlobStorage",
+		"annotations": []
+	}
+}
