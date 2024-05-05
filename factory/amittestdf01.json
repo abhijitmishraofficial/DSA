@@ -1,0 +1,9 @@
+{
+	"name": "amittestdf01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8db1030-121e-453e-8878-680a1aea1e2c",
+		"tenantId": "5ef75e18-d2b0-413e-a995-d190569aeb5d"
+	}
+}
